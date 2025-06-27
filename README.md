@@ -100,7 +100,6 @@ Edit
   ```bash
   pip install numpy
 
-
 ---
 
 ## 🙌 Author
